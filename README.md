@@ -54,3 +54,23 @@ Adopting practices from OWASP, whish was a big resources that was used throughou
 #Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
 I would show them this exact file that I have uploaded here. I think it showes my compitence of the tools used to complete this project and the knowldege of that I do nknow how to use these tools effectivly. 
+
+---------------------------------------------------------------------------------------------------------------------------------------CS-330------------------------------------------------------------------------------------------------------------------------------
+Here I will be talking about the 7-1 Milestone project folder (it contains my 3D scene that was the main project for this course.) and the 2-3 Milestone paper that was the original idea and workings for the this project and explains what I plalned to do with the project.
+
+How I approached this project is I typically like to start from the hardest and move to the simplest. This way the parts of the project that will take mroe time and effort to get through are already done and I can more quickly work through the things I know more about. Doing this can help very much in future work as the harder more complicated things can take up more time as there is more work to do to sorth through it and figure out how to do it. By working the harder things first you can be done with it and move onto something that is easier fo you to do ableing you to work more effciently and faster. How I approach developing programs is to dice straight in and figure out how the program works. I did that here in this project by diving into the first assignment given and working around to try and fighure how things are coded, how this all fits together, and how it works and why. I actually reffred back to previous assignments all through the semester as new things were taught to see how I would get them to fit within the existing code so that it flows correctly and works. Computer Science can help me reach my goal in my futire endevors as it is teaching me new coding languages, frameworks, and programs that I can take into my future works. For instance in CS-330 we learned about computation graphic and visualization and learned to use OpenGL. I can take what I learned here, building on my knowldege of C++ and new resources of handling rendered scenes, and expand upon them makeing more programs and scenes in and outside of the OpenGL program.
+
+---------------------------------------------------------------------------------------------------------------------------------------CS-320------------------------------------------------------------------------------------------------------------------------------
+Here I will be talking about Module_3_Milestone_ContactServive and also the 7-2 Project Two Submission
+
+#How can I ensure that my code, program, or software is functional and secure?
+
+I can ensure that my code, program, or software is functional and secure by running testing on it. Running testing to make sure that everything is working to the requirements and that the actual program is fucntioning as intened is crucial when developing and by performing tests on the code is a great way to ensure that it is working correctly.
+
+#How do I interpret user needs and incorporate them into a program?
+
+How to interpret user need in a program and put them in you would need to ask. You would need to have people use the program and see what it is that needs to chnaged, added, or taken away all based on actual input from people who will be unsing this software.
+
+#How do I approach designing software?
+
+How you cna approach desiging a software is by asking questions. Questions like who is the intended software for, what will they use it to achieve, what are somethings that could be in that would make it easier for the intented audiance. Getting a basis for your design of the software is crucial because without a basis there is nothing to work off of. 
